@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/* 效果CSS开始 */
+/*#lottery{width:574px;height:584px;margin:0px auto;background:url(http://www.internetke.com/jsEffects/2014111801/images/bg.jpg) no-repeat;padding:50px 55px;}*/
+#lottery{width:543px;height:543px;margin:0px auto;padding:50px 55px;}
+#lottery table td{width:181;height:181px;text-align:center;vertical-align:middle;font-size:24px;color:#333;font-index:-999;}
+#lottery table td a{width:181px;height:181px;line-height:150px;display:block;text-decoration:none;}
+#lottery table td.active{background-color:#ea0000;filter:alpha(Opacity=80);opacity: 0.3;}
+/* 效果CSS结束 */
